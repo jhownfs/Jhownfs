@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi there, Welcome to my profile. :grin:
 
-<!--
-**jhownfs/jhownfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Current I'm working with Salesforce platform and improve my knowledge about it, but I know nodejs, java, python, devops, jest, DDD, TDD, apex, lightning web component and aura, I have a little knowledge about data science, IA and Frontend development.
 
-Here are some ideas to get you started:
+I'm learning to play drums :headphones: and love to learning development patterns (https://refactoring.guru/design-patterns) :bug:.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My favorite books :books:
+
+- Harry Potter
+- The alchimist
+- Clean code
+- Clean architecture
+- And the world remained silent
+
+### Maganizes :pencil:
+- Gartner
+- Tech radar
+
+### Current Learnings
+
+- English (improving)
+- Spanish (Learning)
+- Drums (Learning)
+- Coding LWC (improving)
+- Salesforce platform (improving)
+- Test lifecycle (improving)
+- Software architecture (improving)
