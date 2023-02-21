@@ -27,5 +27,3 @@ I'm learning to play drums :headphones: and love to learning development pattern
 - Salesforce platform (improving)
 - Test lifecycle (improving)
 - Software architecture (improving)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jhownfs&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
