@@ -3,6 +3,8 @@
 Current I'm working with Salesforce platform and improve my knowledge about it, but I know nodejs, java, python, devops, jest, DDD, TDD, apex, lightning web component and aura, I have a little knowledge about data science, IA and Frontend development.
 
 I'm learning to play drums :headphones: and love to learning development patterns (https://refactoring.guru/design-patterns) :bug:.
+![image](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={jhownfs})
+
 
 ### My favorite books :books:
 
@@ -25,3 +27,5 @@ I'm learning to play drums :headphones: and love to learning development pattern
 - Salesforce platform (improving)
 - Test lifecycle (improving)
 - Software architecture (improving)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jhownfs&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
