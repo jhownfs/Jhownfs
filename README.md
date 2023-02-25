@@ -15,7 +15,7 @@ I'm learning to play drums :headphones: and love to learning [development patter
 ![image](https://img.shields.io/badge/NVIDIA-GTX1050ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![image](https://camo.githubusercontent.com/c65b6027e093f1170019309c575123328cd6824d11aa154464aea649f4f71d6c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52414d2d313647422d2532333030373143352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465)
 
-### Certifications
+### Certifications :partying_face:
 <div>
   <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Associate.png" width="100px" height="100px"/>
   <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png" width="100px" height="100px"/>
@@ -40,7 +40,7 @@ I'm learning to play drums :headphones: and love to learning [development patter
 - Tech radar
 - InfoQ
 
-### Current Learnings
+### Current Learnings :exploding_head:
 
 - English (improving)
 - Spanish (Learning)
