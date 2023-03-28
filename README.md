@@ -50,4 +50,5 @@ I'm learning to play drums :headphones: and love to learning [development patter
 - Test lifecycle (improving)
 - Software architecture (improving)
 - OmniStudio (Learning)
+- Devops (improving)
 
