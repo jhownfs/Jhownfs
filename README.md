@@ -50,11 +50,12 @@ I'm learning to play drums :headphones: and love to learning [development patter
 
 ### Current Learnings :exploding_head:
 
-- English (improving)
-- Drums (Learning)
-- Coding LWC (improving)
-- Salesforce platform (improving)
-- Test lifecycle (improving)
-- Software architecture (improving)
-- OmniStudio (Learning)
-- Devops (improving)
+- English (improving) <img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
+- Drums (Learning) <img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
+- Coding LWC (improving) <img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
+- Salesforce platform (improving) <img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
+- Test lifecycle (improving) <img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
+- Software architecture (improving) <img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
+- OmniStudio (Learning) <img src="https://user-images.githubusercontent.com/13962648/229365575-31fb7446-414d-4fad-898a-43148193fdb0.png" width="20px" height="20px"/>
+- Devops (improving) <img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
+- Spanish (Learning) <img src="https://user-images.githubusercontent.com/13962648/229365575-31fb7446-414d-4fad-898a-43148193fdb0.png" width="20px" height="20px"/>
