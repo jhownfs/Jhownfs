@@ -26,13 +26,21 @@ I'm learning to play drums :headphones: and love to learning [development patter
   <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/CPQ-Specialist.png" width="100px" height="100px"/>
 </div>
 
-### My favorite books :books:
+### My books for this year :books:
 
-- Harry Potter
-- The alchimist
-- Clean code
-- Clean architecture
-- And the world remained silent
+- Harry Potter <img src="https://user-images.githubusercontent.com/13962648/229365142-6d19c6c3-a622-4498-b3b7-c6222864011d.png" width="20px" height="20px"/>
+- The alchimist <img src="https://user-images.githubusercontent.com/13962648/229365142-6d19c6c3-a622-4498-b3b7-c6222864011d.png" width="20px" height="20px"/>
+- Clean code <img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
+- Clean architecture <img src="https://user-images.githubusercontent.com/13962648/229365142-6d19c6c3-a622-4498-b3b7-c6222864011d.png" width="20px" height="20px"/>
+- And the world remained silent <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
+- Google gcp (soluctions) visualizing <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
+- Design Patterns: Elements of Reusable Object-Oriented Software <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
+- Design Patterns for Cloud Native Applications: Patterns in Practice Using APIs, Data, Events, and Streams <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
+- Salesforce Anti-Patterns: Create powerful Salesforce architectures by learning from common mistakes made on the platform <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
+- Advanced Apex Programming in Salesforce <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
+- Arquitetura de aplicações cooportativas <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
+- Manuescrito <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
+- A Cabana <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
 
 ### Maganizes :pencil:
 
@@ -43,7 +51,6 @@ I'm learning to play drums :headphones: and love to learning [development patter
 ### Current Learnings :exploding_head:
 
 - English (improving)
-- Spanish (Learning)
 - Drums (Learning)
 - Coding LWC (improving)
 - Salesforce platform (improving)
@@ -51,4 +58,3 @@ I'm learning to play drums :headphones: and love to learning [development patter
 - Software architecture (improving)
 - OmniStudio (Learning)
 - Devops (improving)
-
