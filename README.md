@@ -30,7 +30,7 @@ I'm learning to play drums :headphones: and love to learning [development patter
 ### My books for this year in order :books:
 
 - O homem mais rico da babilônia <img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
-- Clean architecture <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
+- Clean architecture <img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
 - Clean code <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
 - Google gcp (soluctions) visualizing <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
 - Arquitetura de aplicações cooportativas <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
