@@ -66,3 +66,17 @@ Second Read Time
 - Devops (improving) <img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
 - Spanish (Learning) <img src="https://user-images.githubusercontent.com/13962648/229365575-31fb7446-414d-4fad-898a-43148193fdb0.png" width="20px" height="20px"/>
 - LWC LightingOut <img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
+
+### Next Certification Goal (2023/2024)
+
+- Salesforce Service Cloud <img src="https://user-images.githubusercontent.com/13962648/229365142-6d19c6c3-a622-4498-b3b7-c6222864011d.png" width="20px" height="20px"/>
+- Salesforce Data Architect <img src="https://user-images.githubusercontent.com/13962648/229365142-6d19c6c3-a622-4498-b3b7-c6222864011d.png" width="20px" height="20px"/>
+- Salesforce Sharing and Visibility Architect <img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
+- Salesforce Integration Architect <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
+- Salesforce Identity and access management <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
+- Salesforce Development lifecycle <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
+- Salesforce Admin Advanced <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
+- OmniStudio Consultant <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
+- OmniStudio Developer <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
+- GCP Associate Cloud Engineer <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
+- AWS Solutions Architect <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
