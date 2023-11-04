@@ -29,7 +29,7 @@ I'm learning to play drums :headphones: and love to learning [development patter
   <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/CPQ-Specialist.png" width="100px" height="100px"/>
   <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Data Architect.png" width="100px" height="100px"/>
   <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Sharing and Visibility Architect.png" width="100px" height="100px"/>
-  <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Application-Archit.png" width="100px" height="100px"/>
+  <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Application-Architect.png" width="100px" height="100px"/>
 </div>
 
 ### My books for this year in order :books:
