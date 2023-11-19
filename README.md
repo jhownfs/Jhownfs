@@ -30,6 +30,7 @@ I'm learning to play drums :headphones: and love to learning [development patter
   <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Data Architect.png" width="100px" height="100px"/>
   <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Sharing and Visibility Architect.png" width="100px" height="100px"/>
   <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Application-Architect.png" width="100px" height="100px"/>
+  <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/ai-associate.png" width="100px" height="100px"/>
 </div>
 
 ### My books for this year in order :books:
@@ -78,8 +79,8 @@ Second Read Time
 - Salesforce Data Architect <img src="https://user-images.githubusercontent.com/13962648/229365142-6d19c6c3-a622-4498-b3b7-c6222864011d.png" width="20px" height="20px"/>
 - Salesforce Sharing and Visibility Architect <img src="https://user-images.githubusercontent.com/13962648/229365142-6d19c6c3-a622-4498-b3b7-c6222864011d.png" width="20px" height="20px"/>
 - Salesforce Applicaton Architect <img src="https://user-images.githubusercontent.com/13962648/229365142-6d19c6c3-a622-4498-b3b7-c6222864011d.png" width="20px" height="20px"/>
-- Salesforce IA Associate <img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
-- Salesforce Integration Architect <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
+- Salesforce IA Associate <img src="https://user-images.githubusercontent.com/13962648/229365142-6d19c6c3-a622-4498-b3b7-c6222864011d.png" width="20px" height="20px"/>
+- Salesforce Integration Architect <img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
 - Salesforce Identity and access management <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
 - Salesforce Development lifecycle <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
 - Salesforce Admin Advanced <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
