@@ -74,6 +74,7 @@ Second Read Time
 - LWC LightingOut (Learning) <img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
 - Design Patterns (Improving) <img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
 - React (Paused) <img src="https://user-images.githubusercontent.com/13962648/229365575-31fb7446-414d-4fad-898a-43148193fdb0.png" width="20px" height="20px"/>
+- Lightning Out (Learning) <img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
 
 ### Next Certification Goal (2023/2024)
 
