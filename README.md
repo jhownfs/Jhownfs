@@ -11,6 +11,15 @@ I'm learning to play drums :headphones: and love to learning [development patter
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhownfs&hide_progress=true)
 
+
+### My workspace 💻
+![image](https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white)
+![image](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white) (Dual Boot)
+![image](https://img.shields.io/badge/AMD%20Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![image](https://img.shields.io/badge/NVIDIA-GTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![image](https://camo.githubusercontent.com/c65b6027e093f1170019309c575123328cd6824d11aa154464aea649f4f71d6c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52414d2d313647422d2532333030373143352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465)
+![image](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)
+
 ### Personal Projects 🚧
 
 - [CI/CD Salesforce](https://github.com/jhownfs/Devops_Center_MVP)
@@ -33,13 +42,6 @@ I'm learning to play drums :headphones: and love to learning [development patter
    - Summary: Component to monitoring Salesforce execution, it generate log to monitoring your Salesforce organization health.
    - Status: ✅
 
-
-### My workspace 💻
-![image](https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white)
-![image](https://img.shields.io/badge/AMD%20Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![image](https://img.shields.io/badge/NVIDIA-GTX1050ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![image](https://camo.githubusercontent.com/c65b6027e093f1170019309c575123328cd6824d11aa154464aea649f4f71d6c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52414d2d313647422d2532333030373143352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465)
-
 ### Certifications :partying_face:
 <div>
   <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Associate.png" width="100px" height="100px"/>
@@ -56,7 +58,7 @@ I'm learning to play drums :headphones: and love to learning [development patter
   <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Integration Architect.png" width="100px" height="100px"/>
 </div>
 
-### Clouds & Technology
+### Clouds & Technology 🚀
 
 ![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![image](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
@@ -84,7 +86,21 @@ I'm learning to play drums :headphones: and love to learning [development patter
 ![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![image](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)
 ![image](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
+![image](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
+![image](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 
+### IDE 👩‍💻
+
+![image](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![image](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
+![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+### Languages 👩‍💻
+
+
+### Prototyping Platforms 💡
+
+![image](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ### My books for this year in order :books:
 
@@ -100,7 +116,7 @@ I'm learning to play drums :headphones: and love to learning [development patter
 - Manuescrito <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
 - Sogaf <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
 
-Second Read Time
+### Second Read Time 🤪
 - A Cabana  <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
 - Harry Potter (All books) <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
 - O Alquimista <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
@@ -129,7 +145,7 @@ Second Read Time
 - React (Paused) <img src="https://user-images.githubusercontent.com/13962648/229365575-31fb7446-414d-4fad-898a-43148193fdb0.png" width="20px" height="20px"/>
 - Data Cloud (Learning) <img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
 
-### Next Certification Goal (2023/2024)
+### Next Certification Goal 🏆 (2023/2024)
 
 - Salesforce Service Cloud <img src="https://user-images.githubusercontent.com/13962648/229365142-6d19c6c3-a622-4498-b3b7-c6222864011d.png" width="20px" height="20px"/>
 - Salesforce Data Architect <img src="https://user-images.githubusercontent.com/13962648/229365142-6d19c6c3-a622-4498-b3b7-c6222864011d.png" width="20px" height="20px"/>
@@ -144,3 +160,14 @@ Second Read Time
 - OmniStudio Developer <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
 - GCP Associate Cloud Engineer <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
 - AWS Solutions Architect <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
+
+### Games 🎮
+
+![image](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+![image](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)
+![image](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
+![image](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)
+![image](https://img.shields.io/badge/Origin-F56C2D?style=for-the-badge&logo=origin&logoColor=white)
+
+
+
