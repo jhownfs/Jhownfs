@@ -13,12 +13,12 @@ I'm learning to play drums :headphones: and love to learning [development patter
 
 ### Projects 🚧
 
-- CI/CD Salesforce
-   Summary:
-   Status: <img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
+- [CI/CD Salesforce](https://github.com/jhownfs/Devops_Center_MVP)
+   - Summary: Pipeline template to using in Salesforce project.
+   - Status: <img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
 - MyCert
-   Summary:
-   Status:
+   - Summary: Certification platform can help you keep focus in the path for certificate exam, make notes, sharing notes with others and more. 
+   - Status:<img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
 
 
 ### My workspace 💻
