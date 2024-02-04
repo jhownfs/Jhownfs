@@ -19,7 +19,7 @@ I'm learning to play drums :headphones: and love to learning [development patter
 
 - MyCert
    - Summary: Certification platform can help you keep focus in the path for certificate exam, make notes, sharing notes with others and more. 
-   - Status:<img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
+   - Status: <img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
 
 - [Global Search](https://github.com/jhownfs/GlobalsearchLWC)
    - Summary: Salesforce component to study about global search for any record inside selected objects, using good practises and Design Patterns.
