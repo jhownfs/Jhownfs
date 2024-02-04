@@ -11,6 +11,15 @@ I'm learning to play drums :headphones: and love to learning [development patter
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhownfs&hide_progress=true)
 
+### Projects 🚧
+
+- CI/CD Salesforce
+   Summary:
+   Status: <img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
+- MyCert
+   Summary:
+   Status:
+
 
 ### My workspace 💻
 ![image](https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white)
