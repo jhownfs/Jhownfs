@@ -14,7 +14,7 @@ I'm learning to play drums :headphones: and love to learning [development patter
 
 ### My workspace 💻
 ![image](https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white)
-![image](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white) (Dual Boot)
+![image](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
 ![image](https://img.shields.io/badge/AMD%20Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![image](https://img.shields.io/badge/NVIDIA-GTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![image](https://camo.githubusercontent.com/6d3b54bb3ee6b6a4d0b0fe0659ee0cafef0830088bd367c4e1f70388a0302a5c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52414d2d313647422d2532333030373143352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465)
