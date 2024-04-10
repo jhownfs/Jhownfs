@@ -22,6 +22,11 @@ I'm learning to play drums :headphones: and love to learning [development patter
 
 ### Personal Projects 🚧
 
+- [Email-To-Case Salesforce](https://github.com/jhownfs/SF-EmailServices)
+   - Summary: Email to case services, using key words to redirect case to queue or skill
+   - Status: <img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
+
+
 - [CI/CD Salesforce](https://github.com/jhownfs/Devops_Center_MVP)
    - Summary: Pipeline template to using in Salesforce project.
    - Status: <img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
