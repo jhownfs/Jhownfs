@@ -61,7 +61,7 @@ I'm learning to play drums :headphones: and love to learning [development patter
   <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Application-Architect.png" width="100px" height="100px"/>
   <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/ai-associate.png" width="100px" height="100px"/>
   <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Integration Architect.png" width="100px" height="100px"/>
-  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000BEqgM&oid=00DF0000000gZsu&lastMod=1693557540000" width="100px" height="100px"/>
+  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000BEqgM&oid=00DF0000000gZsu&lastMod=1693557540000" width="150px" height="100px"/>
 </div>
 
 ### Clouds & Technology 🚀
