@@ -24,12 +24,12 @@ I'm learning to play drums :headphones: and love to learning [development patter
 
 - [Email-To-Case Salesforce](https://github.com/jhownfs/SF-EmailServices)
    - Summary: Email to case services, using key words to redirect case to queue or skill
-   - Status: <img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
+   - Status: 🔨 (Improving Design Pattern)
 
 
 - [CI/CD Salesforce](https://github.com/jhownfs/Devops_Center_MVP)
    - Summary: Pipeline template to using in Salesforce project.
-   - Status: <img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
+   - Status: 🔨 (Improving process)
 
 - MyCert
    - Summary: Certification platform can help you keep focus in the path for certificate exam, make notes, sharing notes with others and more. 
@@ -45,7 +45,7 @@ I'm learning to play drums :headphones: and love to learning [development patter
  
 - [Tracking Logger](https://github.com/jhownfs/TrackingLogger)
    - Summary: Component to monitoring Salesforce execution, it generate log to monitoring your Salesforce organization health.
-   - Status: ✅
+   - Status: Restarting Project.
 
 ### Certifications :partying_face:
 <div>
