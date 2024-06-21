@@ -28,7 +28,7 @@ I'm learning to play drums :headphones: and love to learn [development patterns]
 
 
 - [CI/CD Salesforce](https://github.com/jhownfs/Devops_Center_MVP)
-   - Summary: Pipeline template to using in Salesforce project.
+   - Summary: Pipeline template to use in Salesforce project.
    - Status: 🔨 (Improving process)
 
 - MyCert
@@ -36,7 +36,7 @@ I'm learning to play drums :headphones: and love to learn [development patterns]
    - Status: <img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
 
 - [Global Search](https://github.com/jhownfs/GlobalsearchLWC)
-   - Summary: Salesforce component to study about global search for any record inside selected objects, using good practises and Design Patterns.
+   - Summary: Salesforce component to study global search for any record inside selected objects, using good practices and Design Pattern.
    - Status: 🔨 (Improving Design Pattern)
  
 - [JWT Oauth Salesforce Python](https://github.com/jhownfs/jwt-oauth--salesforce)
@@ -44,7 +44,7 @@ I'm learning to play drums :headphones: and love to learn [development patterns]
    - Status: ✅
  
 - [Tracking Logger](https://github.com/jhownfs/TrackingLogger)
-   - Summary: Component to monitoring Salesforce execution, it generate log to monitoring your Salesforce organization health.
+   - Summary: The component to monitoring Salesforce execution generates a log to monitor your Salesforce organization's health.
    - Status: Restarting Project.
 
 ### Certifications :partying_face:
