@@ -5,7 +5,7 @@
 
 My name is Jhonata I'm working with Salesforce platform and improve my knowledge about it, but I know nodejs, java, python, devops, jest, DDD, TDD, apex, lightning web component and aura, I have a little knowledge about data science, IA and Frontend development.
 
-I'm learning to play drums :headphones: and love to learning [development patterns](https://refactoring.guru/design-patterns) :bug:.
+I'm learning to play drums :headphones: and love to learn [development patterns](https://refactoring.guru/design-patterns) :bug:.
 
 ![jhownfs's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhownfs&show_icons=true&theme=radical)
 
