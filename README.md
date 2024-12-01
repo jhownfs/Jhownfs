@@ -181,6 +181,7 @@ I'm learning to play drums :headphones: and love to learn [development patterns]
 - OmniStudio Developer <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
 - GCP Associate Cloud Engineer <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
 - AWS Solutions Architect <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
+- Salesforce IA Associate (On-demand) <img src="https://user-images.githubusercontent.com/13962648/229365142-6d19c6c3-a622-4498-b3b7-c6222864011d.png" width="20px" height="20px"/>
 
 ### Games 🎮
 
