@@ -124,8 +124,8 @@ I'm learning to play drums :headphones: and love to learn [development patterns]
 
 - O homem mais rico da babilônia <img src="https://user-images.githubusercontent.com/13962648/229365142-6d19c6c3-a622-4498-b3b7-c6222864011d.png" width="20px" height="20px"/>
 - Clean architecture <img src="https://user-images.githubusercontent.com/13962648/229365142-6d19c6c3-a622-4498-b3b7-c6222864011d.png" width="20px" height="20px"/>
-- Clean code <img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
-- Apex class <img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
+- Clean code <img src="https://user-images.githubusercontent.com/13962648/229365142-6d19c6c3-a622-4498-b3b7-c6222864011d.png" width="20px" height="20px"/>
+- Apex class <img src="https://user-images.githubusercontent.com/13962648/229365142-6d19c6c3-a622-4498-b3b7-c6222864011d.png" width="20px" height="20px"/>
 - Google gcp (soluctions) visualizing <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
 - Arquitetura de aplicações cooportativas <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
 - Design Patterns: Elements of Reusable Object-Oriented Software <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
