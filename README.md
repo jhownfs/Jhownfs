@@ -46,6 +46,10 @@ I'm learning to play drums :headphones: and love to learn [development patterns]
 - [Tracking Logger](https://github.com/jhownfs/TrackingLogger)
    - Summary: The component to monitoring Salesforce execution generates a log to monitor your Salesforce organization's health.
    - Status: Restarting Project.
+ 
+- [Salesforce Omnichannel Conversation Component](https://github.com/jhownfs/OmnichannelConversationComponent)
+   - Summary: Salesforce component help when you have messaging session in waiting status and Omnichannel doesn't redirect to agent in online status.
+   - Status: (Improving component)
 
 ### Certifications :partying_face:
 <div>
@@ -126,6 +130,7 @@ I'm learning to play drums :headphones: and love to learn [development patterns]
 - Clean architecture <img src="https://user-images.githubusercontent.com/13962648/229365142-6d19c6c3-a622-4498-b3b7-c6222864011d.png" width="20px" height="20px"/>
 - Clean code <img src="https://user-images.githubusercontent.com/13962648/229365142-6d19c6c3-a622-4498-b3b7-c6222864011d.png" width="20px" height="20px"/>
 - Apex class <img src="https://user-images.githubusercontent.com/13962648/229365142-6d19c6c3-a622-4498-b3b7-c6222864011d.png" width="20px" height="20px"/>
+- Arquitetura e as partes dificeis <img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
 - Google gcp (soluctions) visualizing <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
 - Arquitetura de aplicações cooportativas <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
 - Design Patterns: Elements of Reusable Object-Oriented Software <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
@@ -165,23 +170,14 @@ I'm learning to play drums :headphones: and love to learn [development patterns]
 - Data Cloud (Improving) <img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
 - Javascript (Improving) <img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
 
-### Next Certification Goal 🏆 (2023/2024)
+### Next Certification Goal 🏆 (2025)
 
-- Salesforce Service Cloud <img src="https://user-images.githubusercontent.com/13962648/229365142-6d19c6c3-a622-4498-b3b7-c6222864011d.png" width="20px" height="20px"/>
-- Salesforce Data Architect <img src="https://user-images.githubusercontent.com/13962648/229365142-6d19c6c3-a622-4498-b3b7-c6222864011d.png" width="20px" height="20px"/>
-- Salesforce Sharing and Visibility Architect <img src="https://user-images.githubusercontent.com/13962648/229365142-6d19c6c3-a622-4498-b3b7-c6222864011d.png" width="20px" height="20px"/>
-- Salesforce Applicaton Architect <img src="https://user-images.githubusercontent.com/13962648/229365142-6d19c6c3-a622-4498-b3b7-c6222864011d.png" width="20px" height="20px"/>
-- Salesforce IA Associate <img src="https://user-images.githubusercontent.com/13962648/229365142-6d19c6c3-a622-4498-b3b7-c6222864011d.png" width="20px" height="20px"/>
-- Salesforce Integration Architect <img src="https://user-images.githubusercontent.com/13962648/229365142-6d19c6c3-a622-4498-b3b7-c6222864011d.png" width="20px" height="20px"/>
-- Salesforce Data Cloud Consultant <img src="https://user-images.githubusercontent.com/13962648/229365142-6d19c6c3-a622-4498-b3b7-c6222864011d.png" width="20px" height="20px"/>
-- Salesforce Admin Advanced  <img src="https://user-images.githubusercontent.com/13962648/229365142-6d19c6c3-a622-4498-b3b7-c6222864011d.png" width="20px" height="20px"/>
 - Salesforce Identity and access management <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
 - Salesforce Development lifecycle <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
 - OmniStudio Consultant <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
 - OmniStudio Developer <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
 - GCP Associate Cloud Engineer <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
 - AWS Solutions Architect <img src="https://user-images.githubusercontent.com/13962648/229365312-c3cb6300-a99a-4485-b453-48d51355b790.png" width="20px" height="20px"/>
-- Salesforce IA Associate (On-demand) <img src="https://user-images.githubusercontent.com/13962648/229365142-6d19c6c3-a622-4498-b3b7-c6222864011d.png" width="20px" height="20px"/>
 
 ### Games 🎮
 
