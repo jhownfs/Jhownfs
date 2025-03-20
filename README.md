@@ -26,15 +26,10 @@ I'm learning to play drums :headphones: and love to learn [development patterns]
    - Summary: Email to case services, using key words to redirect case to queue or skill
    - Status: 🔨 (Improving Design Pattern)
 
-
 - [CI/CD Salesforce](https://github.com/jhownfs/Devops_Center_MVP)
    - Summary: Pipeline template to use in Salesforce project.
    - Status: 🔨 (Improving process)
-
-- MyCert
-   - Summary: Certification platform can help you keep focus in the path for certificate exam, make notes, sharing notes with others and more. 
-   - Status: <img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
-
+     
 - [Global Search](https://github.com/jhownfs/GlobalsearchLWC)
    - Summary: Salesforce component to study global search for any record inside selected objects, using good practices and Design Pattern.
    - Status: 🔨 (Improving Design Pattern)
@@ -86,7 +81,6 @@ I'm learning to play drums :headphones: and love to learn [development patterns]
 ![image](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![image](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)
 ![image](https://img.shields.io/badge/Chocolatey-80B5E3?style=for-the-badge&logo=chocolatey&logoColor=fff)
-![image](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white)
 ![image](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![image](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 ![image](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -98,7 +92,6 @@ I'm learning to play drums :headphones: and love to learn [development patterns]
 ![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![image](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)
 ![image](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
-![image](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 ![image](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 
 ### IDE 👩‍💻
@@ -161,14 +154,15 @@ I'm learning to play drums :headphones: and love to learn [development patterns]
 - Salesforce platform (improving) <img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
 - Test lifecycle (improving) <img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
 - Software architecture (improving) <img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
-- OmniStudio (improving) <img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
+- OmniStudio (Paused) <img src="https://user-images.githubusercontent.com/13962648/229365575-31fb7446-414d-4fad-898a-43148193fdb0.png" width="20px" height="20px"/>
 - DevOps (improving) <img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
 - Spanish (Learning) <img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
-- LWC LightingOut (Learning) <img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
+- LWC LightingOut (Paused) <img src="https://user-images.githubusercontent.com/13962648/229365575-31fb7446-414d-4fad-898a-43148193fdb0.png" width="20px" height="20px"/>
 - Design Patterns (Improving) <img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
 - React (Paused) <img src="https://user-images.githubusercontent.com/13962648/229365575-31fb7446-414d-4fad-898a-43148193fdb0.png" width="20px" height="20px"/>
 - Data Cloud (Improving) <img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
 - Javascript (Improving) <img src="https://user-images.githubusercontent.com/13962648/229365154-164b0ae8-0d2f-459c-aa52-7704ceb276d9.png" width="20px" height="20px"/>
+- ITIL ()
 
 ### Next Certification Goal 🏆 (2025)
 
