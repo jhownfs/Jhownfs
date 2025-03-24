@@ -3,14 +3,11 @@
 <a href="https://twitter.com/Jhown_koyji" rel="nofollow">![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) </a>
 <a href="https://www.linkedin.com/in/jhonata-ferreira-1642bb78/" rel="nofollow"> ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 
+# Let me introduce myself
+
 My name is Jhonata I'm working with Salesforce platform and improve my knowledge about it, but I know nodejs, java, python, devops, jest, DDD, TDD, apex, lightning web component and aura, I have a little knowledge about data science, IA and Frontend development.
 
 I'm learning to play drums :headphones: and love to learn [development patterns](https://refactoring.guru/design-patterns) :bug:.
-
-![jhownfs's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhownfs&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhownfs&hide_progress=true)
-
 
 ### My workspace 💻
 ![image](https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white)
