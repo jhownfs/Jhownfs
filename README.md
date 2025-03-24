@@ -5,7 +5,14 @@
 
 # Let me introduce myself
 
-My name is Jhonata I'm working with Salesforce platform and improve my knowledge about it, but I know nodejs, java, python, devops, jest, DDD, TDD, apex, lightning web component and aura, I have a little knowledge about data science, IA and Frontend development.
+My name is Jhonata I'm working with Salesforce platform and improve my knowledge about it, I love to learn new tools and technology, so I try read many articles and maganizes to learn.
+
+Name: Jhonata Ferreira
+Age: 35
+Local: São Paulo, Brazil.
+Stack: Javascript, Nodejs, VueJS, GCP, AWS, Salesforce, LWC.
+University: degree in Compute sciente by Unip and Master's Degree in Software Engineering
+Prizes: International article pushied in copec about HYDROPONIC NFT and Night in town for savings of 100,000 dollars for the company.
 
 I'm learning to play drums :headphones: and love to learn [development patterns](https://refactoring.guru/design-patterns) :bug:.
 
